@@ -11,11 +11,12 @@ In this demonstration, a domain controller and DNS server are created on a virtu
 
 - Microsoft Azure
 - Microsoft Active Directory
-- 
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
 - Windows 11</b> (22H2)
+- Windows Server 2022 Datacenter Edition
 
 <h2>Prerequisites</h2>
 
@@ -28,9 +29,4 @@ In this demonstration, a domain controller and DNS server are created on a virtu
 
 <h2>Video Demonstration</h2>
 
-Part 1 <br />
-[![Configuring osTicket](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DItw4UQZwwWI)](https://www.youtube.com/watch?v=Itw4UQZwwWI)
-<br />
-<br />
-Part 2 <br />
-[![Working Helpdesk Tickets in osTicket](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcwP7Xa2iWhk)](https://www.youtube.com/watch?v=cwP7Xa2iWhk)
+[![Creating Domain Controllers in Windows Server 2022](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpp11QKEvyqU)](https://www.youtube.com/watch?v=pp11QKEvyqU)
