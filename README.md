@@ -20,12 +20,8 @@ In this demonstration, a domain controller and DNS server are created on a virtu
 
 <h2>Prerequisites</h2>
 
-- Internet Information Services installed and enabled
-- PHP Manager for IIS installed and enabled
-- Rewrite Module installed
-- PHP (7.3.8) installed
-- VC_redist_x86 installed
-- MySQL Server (5.5) installed
+- Administrative access to an Azure Virtual Machine running Microsoft 11
+- Administrative access to an Azure Virtual Machine running Windows Server 2022
 
 <h2>Video Demonstration</h2>
 
